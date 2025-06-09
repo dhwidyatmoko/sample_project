@@ -1,0 +1,21 @@
+ 
+        h1 {
+            font-size: xx-large;
+        }
+        h2 {
+            font-size;: x-large;
+        }
+        h3 {
+            font-size: larger;
+        }
+
+        p.pertama {
+            color:green;
+
+        }
+        p.kedua {
+            color=red;
+        }
+        p.ketiga {
+            color=blue;
+        }
